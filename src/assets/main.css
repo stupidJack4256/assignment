@@ -1,0 +1,15 @@
+@import './base.css';
+
+#app {
+  max-width: 1280px;
+  margin: 40px auto;
+  padding: 10px;
+
+  font-weight: normal;
+  background-color: #555;
+  border-radius: 15px;
+}
+
+p {
+  margin: 0;
+}
